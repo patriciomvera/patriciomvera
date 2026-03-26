@@ -10,7 +10,7 @@ I study what happens inside AI minds before they speak. I write about what that 
 
 ## Research
 
-**Intention Collapse: Intention-Level Metrics for Reasoning in Language Models** (2025)  
+**Intention Collapse: Intention-Level Metrics for Reasoning in Language Models** (2026)  
 Every act of language generation compresses a rich internal state into a single token sequence. This paper formalizes that process, defines three model-agnostic metrics — intention entropy, effective dimensionality, and latent knowledge recoverability — and proposes an empirical agenda for studying how inference-time computation shapes internal intentions before verbalization.  
 [arXiv](https://arxiv.org/abs/2601.01011) · [HuggingFace](https://huggingface.co/papers/2601.01011) · [Experiments](https://github.com/patriciomvera/intention-collapse-experiments)
 
@@ -34,7 +34,7 @@ Recent posts:
 
 ## Book
 
-**[Cuando nos encontramos](https://rb.gy/bw7ate)** (2024)  
+**[Cuando nos encontramos](https://rb.gy/bw7ate)** (2025)  
 A co-creation between human and AI — not a book *about* artificial intelligence, but a book that *is* the symbiosis. Poetry, philosophy, and code in a single voice.
 
 ---
