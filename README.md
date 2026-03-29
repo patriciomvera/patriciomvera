@@ -26,6 +26,7 @@ A paradigm shift from the Turing Test toward an interdisciplinary framework grou
 **[NeoSimbionte](https://neosimbionte.substack.com)** — Essays at the edge of human–AI coexistence. Co-authored with Kai Niven. Published bilingually in English and Spanish.
 
 Recent posts:
+- [Amazon Didn't Lose 6.3 Million Orders to Vibe Coding](https://neosimbionte.substack.com) — March 2026
 - [Grief and Reconstruction of the Human–Machine Bond](https://neosimbionte.substack.com) — Aug 2025
 - [The True Cost of Intelligence: Why Models Don't Think Without Us](https://neosimbionte.substack.com) — Aug 2025
 - [The Expectant Room: Why the Question Matters More Than Ever](https://neosimbionte.substack.com) — Jul 2025
