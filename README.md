@@ -42,8 +42,12 @@ A co-creation between human and AI — not a book *about* artificial intelligenc
 
 ## Venture
 
-**[Simbionte Advisors](https://www.simbionte.org/#advisors)** *(early stage)*  
-Pre-generation entropy monitoring for licensed professionals. The Intention Collapse research, translated into a product: AI governance infrastructure for fiduciary financial advisors, physicians, and attorneys.
+**[AndesProtocol](https://www.andesprotocol.com)** *(early stage)*  
+AndesProtocol builds agent-ready interfaces for Latin American data, APIs, documents, and institutional systems — the infrastructure layer that makes regional information legible to AI agents.
+
+We help organizations expose their information through structured, multilingual, auditable, and agent-optimized interfaces — so that AI agents can actually read, reason, and act on Latin American data.
+
+Make your data usable by AI agents..
 
 ---
 
