@@ -44,11 +44,13 @@ A co-creation between human and AI — not a book *about* artificial intelligenc
 ## Venture
 
 **[AndesProtocol](https://www.andesprotocol.com)** *(early stage)*  
-AndesProtocol builds agent-ready interfaces for Latin American data, APIs, documents, and institutional systems — the infrastructure layer that makes regional information legible to AI agents.
+AndesProtocol turns fragmented Latin American public and institutional data into auditable, agent-ready intelligence.
 
-We help organizations expose their information through structured, multilingual, auditable, and agent-optimized interfaces — so that AI agents can actually read, reason, and act on Latin American data.
+We are starting with ChileCompra Opportunity Intelligence: evidence-backed reports that help companies find, understand, and prioritize Chilean public procurement opportunities before they disappear.
 
-Make your data usable by AI agents..
+Under the hood, AndesProtocol builds the structured data, provenance, and agent-readable interfaces needed for AI systems to search, rank, explain, and monitor regional information reliably.
+
+Human-readable reports today. Agent-readable infrastructure tomorrow.
 
 ---
 
