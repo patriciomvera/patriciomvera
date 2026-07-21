@@ -10,6 +10,11 @@ I study what happens inside AI minds before they speak. I write about what that 
 
 ## Research
 
+**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents** (2026)
+AI systems are typically evaluated through task performance and imitation, leaving open whether an agent can acquire, stabilize, and use new lexical meanings from grounded experience. This paper introduces Lexical Consensus, an experimental framework for grounded word learning over frozen DINOv2 visual embeddings using Carroll-style nonce words. The central finding is a robust perceptual-coherence gradient: acquisition success is governed by perceptual distance rather than semantic relatedness (partial R² = 0.245 vs 0.002), with bidirectional naming/retrieval tests exposing a memory-fidelity dimension separate from naming accuracy.
+[arXiv](https://arxiv.org/abs/2606.22207) · [HuggingFace](https://huggingface.co/papers/2606.22207) · [Experiments](https://github.com/patriciomvera/lexical-consensus)
+
+
 **Intention Collapse: Intention-Level Metrics for Reasoning in Language Models** (2026)  
 Every act of language generation compresses a rich internal state into a single token sequence. This paper formalizes that process, defines three model-agnostic metrics — intention entropy, effective dimensionality, and latent knowledge recoverability — and proposes an empirical agenda for studying how inference-time computation shapes internal intentions before verbalization.  
 [arXiv](https://arxiv.org/abs/2601.01011) · [HuggingFace](https://huggingface.co/papers/2601.01011) · [Experiments](https://github.com/patriciomvera/intention-collapse-experiments)
