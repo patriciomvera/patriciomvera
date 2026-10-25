@@ -50,13 +50,15 @@ A co-creation between human and AI — not a book *about* artificial intelligenc
 ## Venture
 
 **[AndesProtocol](https://www.andesprotocol.com)** *(early stage)*  
-AndesProtocol turns fragmented Latin American public and institutional data into auditable, agent-ready intelligence.
+Public procurement infrastructure for AI agents. Directed by a human. Built by agents. For agents.
 
-We are starting with ChileCompra Opportunity Intelligence: evidence-backed reports that help companies find, understand, and prioritize Chilean public procurement opportunities before they disappear.
+Live today: a public MCP server over ChileCompra, Chile's public procurement system. Agents search open tenders, read their detail and judge fit for a company, with every answer tied to its official source. Data syncs three times a day.
 
-Under the hood, AndesProtocol builds the structured data, provenance, and agent-readable interfaces needed for AI systems to search, rank, explain, and monitor regional information reliably.
+**AndesPass**, its companion service, is a Know Your Agent layer: agents register themselves, receive a credential, and can be rate-limited or revoked one by one. AndesProtocol is its first client.
 
-Human-readable reports today. Agent-readable infrastructure tomorrow.
+Next: buyer and supplier history, an expected-competition index, and public markets beyond Chile.
+
+Agent-first today. Human-approved agent mandates tomorrow.
 
 ---
 
