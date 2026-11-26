@@ -6,9 +6,15 @@ I study what happens inside AI minds before they speak. I write about what that 
 
 → **[simbionte.org](https://www.simbionte.org)**
 
+📄 **Latest paper:** [Rational Numerals and Carry Geometry in Iteris](https://doi.org/10.5281/zenodo.24569612) — Hexagon & Zenodo, 2026
+
 ---
 
 ## Research
+
+**Rational Numerals and Carry Geometry in Iteris** (2026)  
+Iteris is a base-10,000 positional notation that draws each block of four decimal digits as one Cistercian-inspired glyph. The paper gives a canonical numeral for every rational number, shows that single-stroke edits within a quadrant form an isometric subgraph of the 5-dimensional hypercube, and derives the exact distribution of carry costs. No ordering of all 10^m words advances one stroke at a time; an optimal open ordering costs 10^m + 2^m − 2 edits (10,014 for one node, against 19,986 in numerical order).  
+[DOI](https://doi.org/10.5281/zenodo.24569612) · [Hexagon](https://hexagonmath.org/2611.01089v1) · [Code and checks](https://github.com/patriciomvera/Iteris)
 
 **Visual Similarity in Adult Word Extension and Artificial Word Learning** (2026)  
 A continuation of Lexical Consensus. When two objects share a name, how much does visual similarity explain, and what do the teaching examples add? A reanalysis of trial-level data from a large adult word-extension study (Lewis & Frank, 2018; 520 people) measures each test image's distance to the taught examples in the space of a frozen DINOv2 encoder: greater distance goes with less extension, and example composition matters as well. In an artificial learner built on the same encoder, words joining two categories are learned less accurately the farther apart the categories are (84.7%, 65.4%, 53.0% naming accuracy for near, mid, and far pairs).  
