@@ -1,7 +1,5 @@
 # Patricio Vera
 
-**AI Researcher · Author · Builder**
-
 I love connecting the dots. Here's my work. Let's connect.
 
 → **[simbionte.org](https://www.simbionte.org)**
