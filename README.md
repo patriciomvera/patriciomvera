@@ -2,7 +2,7 @@
 
 **AI Researcher · Author · Builder**
 
-I study what happens inside AI minds before they speak. I write about what that means for our humanity. And I build infrastructure that lets agents work on public data people can audit.
+I love connecting the dots. Here's my work. Let's connect.
 
 → **[simbionte.org](https://www.simbionte.org)**
 
